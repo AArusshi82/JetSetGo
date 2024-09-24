@@ -42,7 +42,3 @@ This project uses the following technologies:
 * Create a new branch for your changes.
 * Make your changes and commit them to your branch.
 * Submit a pull request.
-
-
-### Contact
-If you have any questions or comments about this project, please contact `Hemant` at `hemantrawat812@gmail.com`.
